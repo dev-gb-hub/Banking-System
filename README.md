@@ -17,6 +17,10 @@
 
 ![Account Info](screenshots/account-info.png)
 
+## Transaction History
+
+![Transaction History](screenshots/transaction-history.png)
+
 ## Purpose
 
 This project serves as a foundational template for learning or building a full-fledged Banking Management System. It showcases how to integrate Java with a database, manage user data, and perform basic financial operations.
