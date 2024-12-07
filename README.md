@@ -11,7 +11,7 @@
 
 ## Main Menu Structure
 
-
+![Main Menu](screenshots/main-menu.png)
 
 
 ## Purpose
