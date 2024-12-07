@@ -9,10 +9,13 @@
 - **Withdraw Funds**: Deduct money from the account balance, ensuring sufficient funds.
 - **Transaction History**: Log of all deposits and withdrawals for tracking user activity.
 
-## Main Menu Structure
+## Main Menu
 
 ![Main Menu](screenshots/main-menu.png)
 
+## Account Info
+
+![Account Info](screenshots/account-info.png)
 
 ## Purpose
 
