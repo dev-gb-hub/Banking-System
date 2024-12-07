@@ -3,7 +3,7 @@ CREATE DATABASE mybank;
 USE mybank;
 
 CREATE TABLE usersTable (
-	user_id INT AUTO_INCREMENT PRIMARY KEY,
+    user_id INT AUTO_INCREMENT PRIMARY KEY,
     username VARCHAR(100) NOT NULL UNIQUE,
     password VARCHAR(100) NOT NULL,
     account_holder_name VARCHAR(50) NOT NULL UNIQUE,
