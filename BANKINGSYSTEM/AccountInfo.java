@@ -22,7 +22,7 @@ public class AccountInfo {
         String format = " | %-29s |%n";
         @SuppressWarnings("ReplaceStringBufferByString")
         StringBuilder s = new StringBuilder()
-            .append(" |          ACOUNT MENU          |\n")
+            .append(" |          ACCOUNT MENU          |\n")
             .append(" +-------------------------------+\n")
             .append(String.format(format, "[1] Change Password"))
             .append(String.format(format, "[2] Change Username"))
